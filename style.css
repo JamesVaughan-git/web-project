@@ -1,4 +1,32 @@
-body{
-background-color:mediumpurple
+body {
+	background-color: mediumpurple;
 }
-   
+img,
+video {
+	max-width: 100%;
+	height: auto;
+}
+figure {
+	margin: 0;
+}
+
+p {
+	color: blue;
+}
+
+p {
+	color: #2255ff;
+}
+
+/*Text Syles*/
+html {
+	font-size: 100%;
+}
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	font-size: 4rem;
+}
